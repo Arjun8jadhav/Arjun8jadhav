@@ -5,7 +5,7 @@ Full-Stack Software Engineer building **end-to-end web applications, scalable ba
 * ✈️ **Experience:** SDE 1 at **Accelya**, building full-stack interfaces and backend services in airline retailing & ancillary offer management.
 * ⚙️ **Primary Stack:**
   * **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Redux
-  * **Backend & Data:** C# (.NET), Python, SQL, REST APIs, OpenSearch
+  * **Backend & Data:** C# (.NET), Python, Node.js, SQL, REST APIs, OpenSearch
   * **Cloud & DevOps:** AWS (Lambda, S3, API Gateway), Azure, Docker, Git/CI-CD
 * 🧠 **Problem Solving:** **Knight** on LeetCode (1800+ rating) — consistent practice in data structures, algorithms, and system design.
 * 🔗 **Links:** [Portfolio](https://arjunjadhav.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arjun-jadhav-661908244/) · [LeetCode](https://leetcode.com/u/arjun_jadhav/)
